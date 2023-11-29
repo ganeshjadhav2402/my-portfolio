@@ -288,7 +288,7 @@ body {
     width: 600px;
     height: 500px;
     padding: 0px 0px;
-    
+
 }
 
 .heading1 {
@@ -430,13 +430,13 @@ body {
 
 /* <!---------------- CSS Education Section -------------------------------> */
 
-.education{
+.education {
     text-align: center;
     font-size: 60px;
-    margin-top: 180px;   
+    margin-top: 180px;
 }
 
-.educate1{
+.educate1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -468,6 +468,7 @@ body {
     text-underline-offset: 10px;
     text-decoration-thickness: 5px;
 }
+
 .data {
     display: grid;
     grid-template-columns: 1fr max-content 1fr;
@@ -479,9 +480,11 @@ body {
     font-weight: 600;
     margin-bottom: 6px;
 }
+
 .edu-icon i {
     font-size: 40px;
 }
+
 .edu-icon span {
     display: block;
     width: 1.9px;
@@ -490,6 +493,7 @@ body {
     transform: translate(19px, -8px);
     margin-bottom: -13px;
 }
+
 .detail {
     display: inline-block;
     font-size: 15px;
@@ -571,7 +575,7 @@ body {
 .layer {
     width: 100%;
     height: 0;
-    background: linear-gradient(rgb(0, 0, 0,0.1), #0ef);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), #0ef);
     position: absolute;
     border-radius: 8px;
     left: 0;
@@ -859,16 +863,16 @@ form textarea {
     .home-content h3 {
         font-size: 30px;
     }
+
     .home-content h3 span {
         font-size: 24px;
     }
-    
+
     .home-content p {
         font-size: 18px;
-    }   
-    
+    }
+
     .btn-box {
         font-size: 20px;
     }
 }
-
